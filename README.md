@@ -18,12 +18,7 @@ Pour l’utilisation de ce module référez-vous aux indications présentes sur 
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [GUVA-S12D](https://github.com/pierron-asco-celda/Pierron_33188/blob/master/src/Pierron-33188-Datasheet.pdf)
-
-# Schémas :
-
-![SCH-33138](/img/SCH-33138.jpg)
-![BRD-33138](/img/BRD-33138.jpg)
+Ressource utilisation : [GUVA-S12D](https://github.com/pierron-asco-celda/33138-Capteur_uv_GROVE/blob/main/src/Datasheet_GUVA-S12D.pdf)
 
 # Exemple :
 ### Arduino / C++
