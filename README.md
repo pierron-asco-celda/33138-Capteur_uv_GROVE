@@ -11,10 +11,15 @@ Caractéristiques techniques :
 - Temps de réponse : 20 à 30 s
 - Température de service : -30 à +85 °C
 
-![33138](/img/L-33138.jpg)
+![L-33138](/img/L-33138.jpg)
 
 # Usage :
 Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+
+# Schémas :
+
+![SCH-33138](/img/SCH-33138.jpg)
+![BRD-33138](/img/BRD-33138.jpg)
 
 # RESSOURCES À TÉLÉCHARGER :
 
