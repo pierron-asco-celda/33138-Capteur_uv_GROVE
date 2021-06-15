@@ -2,7 +2,7 @@
 
 LED RVB GROVE [33138](https://www.pierron.fr/interface-arduino-uno-5949.html)
 
-<div style="text-align: justify">Ce module est utilisé pour détecter l’intensité du rayonnement ultraviolet (UV) incident. Cette forme de rayonnement électromagnétique a des longueurs d’onde plus courtes que le rayonnement visible. Le capteur Grove - UV est basé sur le capteur GUVA-S12D qui a une large plage spectrale de 200nm-400nm. Le module émet un signal électrique qui varie avec l’intensité UV.</div>
+<div style="text-align: justify">Ce module est utilisé pour détecter l’intensité du rayonnement ultraviolet (UV) incident. Cette forme de rayonnement électromagnétique a des longueurs d’onde plus courtes que le rayonnement visible. Le capteur Grove - UV est basé sur le capteur GUVA-S12D qui a une large plage spectrale de 200 à 400nm. Le module émet un signal électrique qui varie avec l’intensité UV.</div>
 
 Caractéristiques techniques :
 - Alimentation : 3.3 à 5 V
@@ -14,7 +14,7 @@ Caractéristiques techniques :
 ![L-33138](/img/L-33138.jpg)
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 # Schémas :
 
