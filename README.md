@@ -51,7 +51,7 @@ void loop()
   }
   long meanVal = sum / 1024;
   Serial.print("Indice UV :");
-  Serial.print((meanVal * 1000 / 4.3 - 83) / 21);
+  Serial.print((meanVal * 1000 / 4.3 - 83) / 21); // cf. datasheet
   Serial.print("\n");
   delay(20);
 }
