@@ -31,7 +31,7 @@ Ressource utilisation : [GUVA-S12D](https://github.com/pierron-asco-celda/33138-
 /*
  *   ** Mesure indice UV module Grove **
        PIN A0 Module shield GROVE
-       Baud rate 9600 -> Moniteur série
+       Baud rate 9600 -> Moniteur série*
 */
 
 void setup() {
@@ -57,5 +57,6 @@ void loop()
 }
 ```
 ## À propos :
-
+<div style="text-align: justify">*Le débit en bauds est un taux de transfert de données en unités de bits par seconde (bps). Si le débit en bauds est de 9600, cela signifie que la possibilité d’envoyer des données est de 9600 bits en une seconde. 1 caractère est identique à 1 octet.</div>
+<br>
 PIERRON ASCO-CELDA (https://www.pierron.fr).
